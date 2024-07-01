@@ -12,5 +12,4 @@ var twoSum = function(nums, target) {
         }
         map.set(nums[i], i);
     }
-    throw new Error('No two sum solution'); // Если решение не найдено
 };
