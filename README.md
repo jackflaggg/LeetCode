@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
