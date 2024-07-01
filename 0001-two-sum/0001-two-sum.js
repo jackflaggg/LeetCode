@@ -4,13 +4,13 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-	const newArr = []
-	for (let i = 0; i < nums.length; i++) {
-		for (let j = i; j < nums.length; j++) {
-			if (nums[i] + nums[j + 1] === target){
-				newArr.push(i, j + 1);
-				return newArr
-			}
-		}
-	}
+    const map = new Map();
+    for (let i = 0; i < nums.length; i++) {
+        const complement = target - nums[i];
+        if (map.has(complement)) {
+            return [map.get(complement), i];
+        }
+        map.set(nums[i], i);
+    }
+    throw new Error('No two sum solution'); // Если решение не найдено
 };
