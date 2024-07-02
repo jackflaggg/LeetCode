@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -31,8 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
