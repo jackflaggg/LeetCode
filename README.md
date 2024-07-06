@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/jackflaggg/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/jackflaggg/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## Counting
 |  |
 | ------- |
