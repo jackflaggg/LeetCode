@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jackflaggg/LeetCode/tree/master/0009-palindrome-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jackflaggg/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,9 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 | [1293-three-consecutive-odds](https://github.com/jackflaggg/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/jackflaggg/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/jackflaggg/LeetCode/tree/master/1755-defuse-the-bomb) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
