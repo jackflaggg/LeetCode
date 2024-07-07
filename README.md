@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
+| [1293-three-consecutive-odds](https://github.com/jackflaggg/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/jackflaggg/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
