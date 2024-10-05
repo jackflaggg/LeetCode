@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jackflaggg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/jackflaggg/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/jackflaggg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/jackflaggg/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jackflaggg/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
