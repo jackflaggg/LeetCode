@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/jackflaggg/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/jackflaggg/LeetCode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/jackflaggg/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jackflaggg/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/jackflaggg/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jackflaggg/LeetCode/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/jackflaggg/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jackflaggg/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/jackflaggg/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jackflaggg/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jackflaggg/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
